@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nadimbahadoor/allaboutscala) 
+
 # Source Code For Scala Tutorials From www.allaboutscala.com
 ## Introduction
 The Scala programming language is rapidly growing in popularity! Sadly, most of the online tutorials do not provide a step-by-step guide :(
